@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game Time</string>
+    <string name="button_start">Start</string>
+    <string name="action_attack">Attack</string>
+    <string name="action_defend">Defend</string>
+    <string name="action_magic">Magic</string>
+    <string name="action_run">Run</string>
+</resources>
